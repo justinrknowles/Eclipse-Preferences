@@ -8,7 +8,7 @@ JUnit Templates
 ---------------
 
 	* `at`: inserts the `assertThat()` method.
-	* `eq``: inserts the `equalTo()` matcher.
+	* `eq`: inserts the `equalTo()` matcher.
 	* `parameters`: declares a JUnit 4 test data method to provide data to a JUnit 4 parameterized test.
 	* `test`: declares a JUnit 4 test method.
 
