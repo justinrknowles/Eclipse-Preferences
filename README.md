@@ -7,17 +7,10 @@ Add these templates to your Eclipse environment using
 JUnit Templates
 ---------------
 
-<<<<<<< HEAD
-	* ` at `: inserts the `assertThat()` method.
-	* ` eq `: inserts the `equalTo()` matcher.
-	* `parameters`: declares a JUnit 4 test data method to provide data to a JUnit 4 parameterized test.
-	* `test`: declares a JUnit 4 test method.
-=======
 * __`at`__: inserts the `assertThat()` method.
 * __`eq`__: inserts the `equalTo()` matcher.
 * __`parameters`__: declares a JUnit 4 test data method to provide data to a JUnit 4 parameterized test.
 * __`test`__: declares a JUnit 4 test method.
->>>>>>> Fix the Markdown markup.
 
 jMock Templates
 ---------------
