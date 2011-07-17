@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><templates><template autoinsert="true" context="java" deleted="false" description="jMock Mockery" enabled="true" name="context">@RunWith(JMock.class)${cursor}&#13;
+&#13;
+final Mockery context = new JUnit4Mockery();${:import(org.junit.runner.RunWith, org.jmock.integration.junit4.JMock, org.jmock.Mockery, org.jmock.integration.junit4.JUnit4Mockery)}&#13;
+</template><template autoinsert="true" context="java" deleted="false" description="jMock Expectations" enabled="true" name="expectations">context.checking(new Expectations() {{&#13;
+    ${cursor}&#13;
+}});${:import(org.jmock.Expectations)}&#13;
+</template><template autoinsert="true" context="java" deleted="false" description="jMock Declaration of a mock object" enabled="true" name="mock">final ${type} ${field} = context.mock(${type}.class);</template><template autoinsert="true" context="java" deleted="false" description="jMock return value" enabled="true" name="rv">will(returnValue(${value}${cursor}));</template></templates>
