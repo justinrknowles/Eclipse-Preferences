@@ -1,4 +1,10 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?><templates><template autoinsert="true" context="java" deleted="false" description="JUnit 4 assertThat() assertion" enabled="true" name="at">assertThat(${actual}, ${matcher});${staticImport:importStatic('org.junit.Assert.*')}</template><template autoinsert="true" context="java" deleted="false" description="JUnit 4 equalTo() matcher" enabled="true" name="eq">equalTo(${cursor})${staticImport:importStatic('org.hamcrest.CoreMatchers.*')}</template><template autoinsert="true" context="java-members" deleted="false" description="JUnit 4 Parameters method" enabled="true" name="parameters">@RunWith(Parameterized.class)${cursor}
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><templates><template autoinsert="true" context="java" deleted="false" description="JUnit 4 assertThat() assertion" enabled="true" name="at">assertThat(${actual}, ${matcher});${staticImport:importStatic('org.junit.Assert.*')}</template><template autoinsert="true" context="java" deleted="false" description="JUnit 4 Expected exception" enabled="true" name="ee">try {
+	${act} 
+	fail();
+} catch (Exception expected) {
+	${assert} 
+}
+</template><template autoinsert="true" context="java" deleted="false" description="JUnit 4 equalTo() matcher" enabled="true" name="eq">equalTo(${cursor})${staticImport:importStatic('org.hamcrest.CoreMatchers.*')}</template><template autoinsert="true" context="java-members" deleted="false" description="JUnit 4 Parameters method" enabled="true" name="parameters">@RunWith(Parameterized.class)${cursor}
 @${type:newType(org.junit.runners.Parameterized.Parameters)}
 public static Collection&lt;Object[]&gt; testData() {
 	return asList(new Object[][] {
