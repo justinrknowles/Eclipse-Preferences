@@ -8,6 +8,7 @@ JUnit Templates
 ---------------
 
 * `at`: inserts the `assertThat()` method.
+* `ee`: inserts the body of a test case that is expecting an exception.
 * `eq`: inserts the `equalTo()` matcher.
 * `parameters`: declares a JUnit 4 test data method to provide data to a JUnit 4 parameterized test.
 * `test`: declares a JUnit 4 test method.
