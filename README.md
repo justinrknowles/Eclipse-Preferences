@@ -33,6 +33,7 @@ these static unless you add them using the Java > Editor > Content Assist > Favo
 * `java.util.Collections.asList`
 * `org.hamcrest.CoreMatchers.*`
 * `org.hamcrest.Matchers.*`
+* `org.jmock.Expectations`
 * `org.junit.Assert.*`
 * `org.junit.matchers.JUnitMatchers.*`
 
