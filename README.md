@@ -27,7 +27,7 @@ Eclipse Favorites
 =================
 
 Compact readable test code makes use of many static methods. Eclipse provides no content assist for 
-these static unless you add them using the Java > Editor > Content Assist > Favorites preference.
+these static methods unless you adjust the Java > Editor > Content Assist > Favorites preference.
 
 * `java.util.Arrays.*`
 * `java.util.Collections.asList`
