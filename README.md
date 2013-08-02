@@ -51,7 +51,7 @@ Note: on a Mac use Option+Command rather than Alt+Shift.
 </table>
 
 
-Remove Eclipse Workspace from OS X Spotlight Indexing
-=====================================================
+Configure OS X Spotlight Indexing
+=================================
 
 Go into System Preferences > Spotlight > Privacy and add your Eclipse Workspace folder.
