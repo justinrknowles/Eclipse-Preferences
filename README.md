@@ -51,7 +51,15 @@ Note: on a Mac use Option+Command rather than Alt+Shift.
 </table>
 
 
+Eclipse Settings
+================
+
+Preferences > Java > Typing > Automatically insert at correct position
+
+    Check Semicolons and Braces  
+
+
 Configure OS X Spotlight Indexing
 =================================
 
-Go into System Preferences > Spotlight > Privacy and add your Eclipse Workspace folder.
+Go into System Preferences > Spotlight > Privacy and add your Eclipse Workspace folder
