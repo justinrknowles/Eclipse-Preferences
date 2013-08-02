@@ -32,7 +32,6 @@ these static methods unless you adjust the Java > Editor > Content Assist > Favo
 * `java.util.Arrays.*`
 * `java.util.Collections.asList`
 * `org.hamcrest.CoreMatchers.*`
-* `org.hamcrest.Matchers.*`
 * `org.jmock.Expectations`
 * `org.junit.Assert.*`
 * `org.junit.matchers.JUnitMatchers.*`
