@@ -49,3 +49,9 @@ Note: on a Mac use Option+Command rather than Alt+Shift.
 	<tr><td>Extract Constant</td><td>Alt+Shift+K</td></td>
 	<tr><td>Introduce Parameter</td><td>Alt+Shift+P</td></tr>
 </table>
+
+
+Remove Eclipse Workspace from OS X Spotlight Indexing
+=====================================================
+
+Go into System Preferences > Spotlight > Privacy and add your Eclipse Workspace folder.
