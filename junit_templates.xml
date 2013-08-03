@@ -10,6 +10,15 @@ ${describe_behaviour}() {
 	${cursor}
 }${staticImport:importStatic('org.junit.Assert.*')}</template>
 <template autoinsert="true" context="java" deleted="false" description="JUnit 4 assertThat() assertion" enabled="true" name="at">assertThat(${actual}, ${matcher});${staticImport:importStatic('org.junit.Assert.*')}</template>
+<template autoinsert="true" context="java" deleted="false" description="JUnit 4 Given When Then" enabled="true" name="bdd">@${testType:newType(org.junit.Test)} public void
+${describe_behaviour}() {
+	// Given
+
+	// When
+	
+	// Then
+	${cursor}
+}${staticImport:importStatic('org.junit.Assert.*')}</template>
 <template autoinsert="true" context="java" deleted="false" description="JUnit 4 Expected exception" enabled="true" name="ee">try {
 	${act} 
 	fail();
