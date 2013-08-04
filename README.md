@@ -23,8 +23,11 @@ jMock Templates
 * `rv`: declares a mock's return value.
 
 
+Eclipse Preferences
+===================
+
 Eclipse Favorites
-=================
+-----------------
 
 Compact readable test code makes use of many static methods. Eclipse provides no content assist for 
 these static methods unless you adjust the Java > Editor > Content Assist > Favorites preference.
@@ -38,9 +41,9 @@ these static methods unless you adjust the Java > Editor > Content Assist > Favo
 
 
 Eclipse Refactoring Keys
-========================
+------------------------
 
-There are 3 essential refactorings that do not have a key binding. Add them to the General > Keys preference. 
+There are 3 essential refactorings that do not have a default key binding. Add them to the General > Keys preference. 
 Note: on a Mac use Option+Command rather than Alt+Shift.
 
 <table>
@@ -51,15 +54,20 @@ Note: on a Mac use Option+Command rather than Alt+Shift.
 </table>
 
 
-Eclipse Settings
-================
+Typing Semicolons
+-----------------
 
 Preferences > Java > Typing > Automatically insert at correct position
 
     Check Semicolons and Braces  
 
 
+
+
+Other Eclispe Related Configuration
+===================================
+
 Configure OS X Spotlight Indexing
-=================================
+---------------------------------
 
 Go into System Preferences > Spotlight > Privacy and add your Eclipse Workspace folder
