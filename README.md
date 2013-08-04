@@ -39,6 +39,8 @@ these static methods unless you adjust the Java > Editor > Content Assist > Favo
 * `org.junit.Assert.*`
 * `org.junit.matchers.JUnitMatchers.*`
 
+See [Eclispe on E](http://eclipseone.wordpress.com/2010/02/01/generate-static-imports-in-eclipse-on-autocomplete/#more-818).
+
 
 Eclipse Refactoring Keys
 ------------------------
@@ -79,7 +81,7 @@ Java > Editor > Hover
     Combined Hover: Shift
     Source: Ctrl + Shit
     
-See [Eclipse on E] (http://eclipseone.wordpress.com/2010/08/24/configure-tooltips-in-eclipse-to-only-popup-on-request/#more-1340)
+See [Eclipse on E] (http://eclipseone.wordpress.com/2010/08/24/configure-tooltips-in-eclipse-to-only-popup-on-request/#more-1340).
 
 
 
