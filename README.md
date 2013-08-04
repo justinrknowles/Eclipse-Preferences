@@ -57,10 +57,18 @@ Note: on a Mac use Option+Command rather than Alt+Shift.
 Typing Semicolons
 -----------------
 
-Preferences > Java > Typing > Automatically insert at correct position
+Java > Typing > Automatically insert at correct position
 
     Check Semicolons and Braces  
 
+
+Type Filters for Tweaking Content Assist
+----------------------------------------
+
+Java > Appearance > Type Filters
+
+    com.sun.media.jai*
+    com.sun.org.apache.xalan.internal*
 
 
 
