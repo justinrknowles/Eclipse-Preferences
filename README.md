@@ -69,6 +69,17 @@ Java > Appearance > Type Filters
 
     com.sun.media.jai*
     com.sun.org.apache.xalan.internal*
+    
+    
+Disable Annoying Tooltips on Hover
+----------------------------------
+
+Java > Editor > Hover
+
+    Combined Hover: Shift
+    Source: Ctrl + Shit
+    
+See [Eclipse on E] (http://eclipseone.wordpress.com/2010/08/24/configure-tooltips-in-eclipse-to-only-popup-on-request/#more-1340)
 
 
 
