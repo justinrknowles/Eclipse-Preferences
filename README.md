@@ -63,6 +63,7 @@ Java > Typing > Automatically insert at correct position
 
     Check Semicolons and Braces  
 
+See [Eclipse on E](http://eclipseone.wordpress.com/2010/02/22/place-a-semicolon-at-the-end-of-a-java-statement-in-eclipse/).
 
 Type Filters for Tweaking Content Assist
 ----------------------------------------
