@@ -81,6 +81,18 @@ See [Eclipse on E] (http://eclipseone.wordpress.com/2010/08/24/configure-tooltip
 
 ## Other Eclispe Related Configuration
 
+### Adjust the eclipse.ini Configuration File
+
+````
+-vmargs
+-Xverify:none
+-Dosgi.requiredJavaVersion=1.6
+-XX:PermSize=256m
+-XX:MaxPermSize=256m
+-Xms1024m
+-Xmx1024m
+````
+
 ### Configure OS X Spotlight Indexing
 
 Go into System Preferences > Spotlight > Privacy and add your Eclipse Workspace folder
