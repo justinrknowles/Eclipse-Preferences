@@ -1,11 +1,9 @@
-Eclipse Templates
-=================
+## Eclipse Templates
 
 Add these templates to your Eclipse environment using
 `Preferences > Java > Editor > Templates > Import...`
 
-JUnit Templates
----------------
+### JUnit Templates
 
 * `aaa`: declares a JUnit 4 test method with Triple-A comments: Arrange, Act, and Assert.
 * `at`: inserts the `assertThat()` method.
@@ -14,8 +12,7 @@ JUnit Templates
 * `parameters`: declares a JUnit 4 test data method to provide data to a JUnit 4 parameterized test.
 * `test`: declares a JUnit 4 test method.
 
-jMock Templates
----------------
+### jMock Templates
  
 * `context`: declares a `Mockery` instance.
 * `expectations`: declares a context for specifying expectations.
@@ -23,11 +20,9 @@ jMock Templates
 * `rv`: declares a mock's return value.
 
 
-Eclipse Preferences
-===================
+## Eclipse Preferences
 
-Eclipse Favorites
------------------
+### Eclipse Favorites
 
 Compact readable test code makes use of many static methods. Eclipse provides no content assist for 
 these static methods unless you adjust the Java > Editor > Content Assist > Favorites preference.
@@ -42,8 +37,7 @@ these static methods unless you adjust the Java > Editor > Content Assist > Favo
 See [Eclispe on E](http://eclipseone.wordpress.com/2010/02/01/generate-static-imports-in-eclipse-on-autocomplete/#more-818).
 
 
-Eclipse Refactoring Keys
-------------------------
+### Eclipse Refactoring Keys
 
 There are 3 essential refactorings that do not have a default key binding. Add them to the General > Keys preference. 
 Note: on a Mac use Option+Command rather than Alt+Shift.
@@ -56,8 +50,7 @@ Note: on a Mac use Option+Command rather than Alt+Shift.
 </table>
 
 
-Typing Semicolons
------------------
+### Typing Semicolons
 
 Java > Typing > Automatically insert at correct position
 
@@ -65,8 +58,8 @@ Java > Typing > Automatically insert at correct position
 
 See [Eclipse on E](http://eclipseone.wordpress.com/2010/02/22/place-a-semicolon-at-the-end-of-a-java-statement-in-eclipse/).
 
-Type Filters for Tweaking Content Assist
-----------------------------------------
+
+### Type Filters for Tweaking Content Assist
 
 Java > Appearance > Type Filters
 
@@ -74,8 +67,7 @@ Java > Appearance > Type Filters
     com.sun.org.apache.xalan.internal*
     
     
-Disable Annoying Tooltips on Hover
-----------------------------------
+### Disable Annoying Tooltips on Hover
 
 Java > Editor > Hover
 
@@ -86,10 +78,8 @@ See [Eclipse on E] (http://eclipseone.wordpress.com/2010/08/24/configure-tooltip
 
 
 
-Other Eclispe Related Configuration
-===================================
+## Other Eclispe Related Configuration
 
-Configure OS X Spotlight Indexing
----------------------------------
+### Configure OS X Spotlight Indexing
 
 Go into System Preferences > Spotlight > Privacy and add your Eclipse Workspace folder
