@@ -28,6 +28,7 @@ Compact readable test code makes use of many static methods. Eclipse provides no
 these static methods unless you adjust the Java > Editor > Content Assist > Favorites preference.
 
 * `java.util.Arrays.*`
+* `java.util.Collections.*`
 * `java.util.Collections.asList`
 * `org.hamcrest.CoreMatchers.*`
 * `org.jmock.Expectations`
