@@ -24,7 +24,7 @@ ${describe_behaviour}() {
 	fail();
 } catch (Exception expected) {
 	${assert} 
-}
+}${staticImport:importStatic('org.junit.Assert.fail')}
 </template>
 <template autoinsert="true" context="java" deleted="false" description="JUnit 4 equalTo() matcher" enabled="true" name="eq">equalTo(${cursor})${staticImport:importStatic('org.hamcrest.CoreMatchers.*')}</template>
 <template autoinsert="true" context="java-members" deleted="false" description="JUnit 4 Parameters method" enabled="true" name="parameters">@RunWith(Parameterized.class)${cursor}
