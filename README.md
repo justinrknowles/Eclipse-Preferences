@@ -45,8 +45,8 @@ Note: on a Mac use Option+Command rather than Alt+Shift.
 
 <table>
 	<tr><th>Command</th><th>Binding</th></tr>
-	<tr><td>Convert Local Variable to Field</td><td>Alt+Shift+F</td></td>
-	<tr><td>Extract Constant</td><td>Alt+Shift+K</td></td>
+	<tr><td>Convert Local Variable to Field</td><td>Alt+Shift+F</td></tr>
+	<tr><td>Extract Constant</td><td>Alt+Shift+K</td></tr>
 	<tr><td>Introduce Parameter</td><td>Alt+Shift+P</td></tr>
 </table>
 
@@ -91,7 +91,7 @@ See [Eclipse on E] (http://eclipseone.wordpress.com/2010/08/24/configure-tooltip
 </table>
 
 
-## Other Eclispe Related Configuration
+## Other Eclipse Related Configuration
 
 ### Adjust the eclipse.ini Configuration File
 
