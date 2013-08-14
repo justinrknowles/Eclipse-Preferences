@@ -78,6 +78,18 @@ Java > Editor > Hover
 See [Eclipse on E] (http://eclipseone.wordpress.com/2010/08/24/configure-tooltips-in-eclipse-to-only-popup-on-request/#more-1340).
 
 
+### Eclipse Plug-ins
+
+<table>
+	<tr><th>Plugin</th><th>Update Site</th><th>Notes</th></tr>
+	<tr><td>EclEmma</td><td>Eclipse Marketplace</td><td>Code coverage</td></tr>
+	<tr><td>ExploreFS</td><td>http://www.junginger.biz/eclipse/</td><td>Open file in Finder</td></tr>
+	<tr><td>Infinitest</td><td>http://infinitest.github.com</td><td>Alternate test runner</td></tr>
+	<tr><td>MoreUnit</td><td>Eclipse Marketplace</td><td>JUnit enhancements</td></tr>
+	<tr><td>MouseFeed</td><td>Eclipse Marketplace</td><td>Teaches shortcuts</td></tr>
+	<tr><td>Quantum DB</td><td>http://quantum.sourceforge.net/update-site</td><td>Database tooling</td></tr>
+</table>
+
 
 ## Other Eclispe Related Configuration
 
