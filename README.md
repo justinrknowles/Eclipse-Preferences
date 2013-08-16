@@ -88,6 +88,7 @@ See [Eclipse on E] (http://eclipseone.wordpress.com/2010/08/24/configure-tooltip
 	<tr><td>MoreUnit</td><td>Eclipse Marketplace</td><td>JUnit enhancements</td></tr>
 	<tr><td>MouseFeed</td><td>Eclipse Marketplace</td><td>Teaches shortcuts</td></tr>
 	<tr><td>Quantum DB</td><td>http://quantum.sourceforge.net/update-site</td><td>Database tooling</td></tr>
+	<tr><td>Terminal</td><td>Eclipse Marketplace</td><td>Provides a terminal view</td></tr>
 </table>
 
 
