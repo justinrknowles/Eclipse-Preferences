@@ -33,7 +33,6 @@ these static methods unless you adjust the Java > Editor > Content Assist > Favo
 * `org.hamcrest.CoreMatchers.*`
 * `org.jmock.Expectations`
 * `org.junit.Assert.*`
-* `org.junit.matchers.JUnitMatchers.*`
 
 See [Eclispe on E](http://eclipseone.wordpress.com/2010/02/01/generate-static-imports-in-eclipse-on-autocomplete/#more-818).
 
