@@ -38,4 +38,5 @@ public static Collection&lt;Object[]&gt; testData() {
 public void ${describe_behaviour}() {
     ${cursor} 
 }${staticImport:importStatic('org.junit.Assert.*')}</template>
+<template autoinsert="true" context="java" deleted="false" description="JUnit 4 assertThat() assertion" enabled="true" name="that">assertThat(${actual}, ${matcher});${staticImport:importStatic('org.junit.Assert.*')}</template>
 </templates>
