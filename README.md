@@ -29,9 +29,7 @@ these static methods unless you adjust the Java > Editor > Content Assist > Favo
 
 * `java.util.Arrays.*`
 * `java.util.Collections.*`
-* `java.util.Collections.asList`
 * `org.hamcrest.CoreMatchers.*`
-* `org.jmock.Expectations`
 * `org.junit.Assert.*`
 
 See [Eclispe on E](http://eclipseone.wordpress.com/2010/02/01/generate-static-imports-in-eclipse-on-autocomplete/#more-818).
